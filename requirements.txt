@@ -1,0 +1,8 @@
+APScheduler==3.10.1
+fastapi==0.95.0
+mysql_connector_repackaged==0.3.1
+nltk==3.8.1
+pydantic==1.10.2
+python-dotenv==1.0.0
+rake_nltk==1.0.6
+slack_sdk==3.19.4
